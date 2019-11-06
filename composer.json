@@ -1,0 +1,17 @@
+{
+    "name": "burel/twig",
+    "authors": [
+        {
+            "name": "BertrandBurel",
+            "email": "legionxful@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
